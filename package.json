@@ -59,6 +59,6 @@
   },
   "dependencies": {},
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/andrekardec"
+    "registry": "https://npm.pkg.github.com/@andrekardec"
   }
 }
